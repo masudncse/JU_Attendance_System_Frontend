@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "node": "v20.11.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
